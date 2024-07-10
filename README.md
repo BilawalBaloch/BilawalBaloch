@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bilawal</h1>
-<h3 align="center">A passionate in Data Analytics & Data Scientist</h3>
+<h3 align="center">A passionate in Data Analytics from Pakistan</h3>
 
 <img align="center" alt="Coding" width="1000" height = "500" src="https://camo.githubusercontent.com/b2d4d7e983c97ca521cc8d6977d9d86d7f2d818e08872db8575eac7959b1a1e0/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f31302f646174612d736369656e63652d67697068792e676966">
 
 
-- 🔭 I’m currently working on Data Science [Data-Science-ML](https://github.com/BilawalBaloch/Data-Science-ML)
+- 🔭 I’m currently working on  Python, EDA, ML Projects . [Data-Science-ML](https://github.com/BilawalBaloch/Data-Science-ML)
+  
+- 🌱 I’m currently learning Machine Learning, Deep Learning
 
 - 👨‍💻 All of my projects are available at [https://github.com/BilawalBaloch](https://github.com/BilawalBaloch)
 
