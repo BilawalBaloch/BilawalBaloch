@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 
-- 👨‍💻 All of my projects are available at [https://github.com/BilawalBaloch](https://github.com/BilawalBaloch)
+- 👨‍💻 All of my projects are available at [here](https://github.com/BilawalBaloch)
 
 - 📫 How to reach me **bilawalbashir271@gmail.com**
 
